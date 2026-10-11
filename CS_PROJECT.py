@@ -1,0 +1,1 @@
+print("HOTEL MANAGEMENT SYSTEM")
